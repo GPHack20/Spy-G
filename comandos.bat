@@ -1,0 +1,6 @@
+@echo off
+cls
+@echo off
+msg * TE AMO SHANELY! 
+MSG * ERES BIEN RICA!
+MSG * JODER ESE CULO ES TAN HERMOSO!
